@@ -1,0 +1,22 @@
+# env local
+.env
+
+# deps
+node_modules
+
+# builds
+dist
+build
+
+# logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+
+# Vite
+apps/web/dist
+apps/web/.vite

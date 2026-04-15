@@ -1,0 +1,11 @@
+{
+    "name" : "erp-3d_jj",
+    "private" : true,
+    "packageManager": "pnpm@10.33.0",
+    "scripts": {
+        "dev" : "pnpm -r dev",
+        "build" : "pnpm -r build",
+        "lint" : "pnpm -r lint",
+        "test" : "pnpm -r test"
+    }
+}
